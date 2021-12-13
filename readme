@@ -8,7 +8,7 @@ Hello reader !
 -  Using Django as a Python Web Framework for backend development.
 -  Using HTML and CSS for front-end styling.
 -  Separately created 'templates' and 'static' directory for 
-   remotely storing static and ready-to-use html and css files.
+    remotely storing static and ready-to-use html and css files.
    
-* I have used Jupyter Notebook and Visual Studio Code as required
-  tools and platforms for coding respectively.
+* I have used Visual Studio Code as required Python IDE for 
+  coding respectively.
