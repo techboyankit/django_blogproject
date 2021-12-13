@@ -1,8 +1,14 @@
 Hello reader !
 
-It is a blogpost made by me using Python,Django,Html,
-CSS.
+* It is a blogpost made by me using Python,Django,Html and
+  CSS, for creating personal blogs with legit user access.
 
-Here I have using the following methods :-
+* Here I have been using the following techniques :-
 
--  
+-  Using Django as a Python Web Framework for backend development.
+-  Using HTML and CSS for front-end styling.
+-  Separately created 'templates' and 'static' directory for 
+   remotely storing static and ready_to_use html and css files.
+   
+* I have used Jupyter Notebook and Visual Studio Code as required
+  tools and platforms for coding respectively.
